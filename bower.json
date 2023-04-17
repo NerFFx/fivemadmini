@@ -1,0 +1,13 @@
+{
+  "name": "fivemchat",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "keywords": [
+    "chat"
+  ],
+  "homepage": "https://github.com/NerFFx/fivemadmini",
+  "dependencies": {
+    "angular": "^1.8.3"
+  }
+}
